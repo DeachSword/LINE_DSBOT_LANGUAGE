@@ -39,15 +39,17 @@
 "word3":"目前共有",
 "word4":"個投稿\n\n",
 
-
-"bot.v1":"Refuse",
-"bot.v2":"Refuse",
-"bot.v3":"第 參 式 - Re:從零開始的異世界生活 雷姆",
-"bot.v4":"第 肆 式 - Re:從零開始的異世界生活 拉姆",
-"bot.v5":"Refuse",
-"bot.v6":"Refuse",
+"bot.v1":"Unknown",
+"bot.v2":"Unknown",
+"bot.v3":"The third - Re:Zero Rem",
+"bot.v4":"The fourth - Re:Zero Ram",
+"bot.v5":"Unknown",
+"bot.v6":"Unknown",
 
 "Re:Zero":"✨Re:Zero✨",
+
+"yes":"✨Turn on✨",
+"no":"✨Turn off✨",
 
 "error":"Use this command in the group/room('・ω・')",
 "lang.error":"Can not find the language of your choice.",
