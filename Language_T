@@ -1,5 +1,5 @@
 {
-"help":"✨DeachSword bot's  | Commands list:\n\n- @DS#Help :Commands list\n- @DS#Author :author\n- @DS#Word_(Induction vocabulary)_(Response vocabulary) :\n- @DS#Lang_English/Chinese/Thai/Japanese :Language Setting(Add _View to see the DS Bot's Terms of Service)\n\n\nℹGroup/Room Commands\n\n- @DS#Mute_on/off :Silent mode(default is off)\n- @DS#Know_on/off :Shared thesaurus(default is off=Private dictionary)\n- @DS#Bye :Byebye(｡ŏ﹏ŏ)\n\n\n✨Latest News :https://www.facebook.com/DeachSword.tw/✨",
+"help":"✨DeachSword bot's | รายการคำสั่ง:\n\n- @DS#Help :รายการคำสั่ง\n- @DS#Author :ผู้เขียน\n- @DS#Word_(คำหลัก)_(คำโต้ตอบคำหลัก) :\n- @DS#Lang_English/Chinese/Thai/Japanese :การตั้งค่าภาษา(เพิ่ม _View เพื่อดูข้อตกลงและเงื่อนไขในการให้บริการ)\n\n\nℹGroup/Room Commands\n\n- @DS#Mute_on/off :Sเปิด / ปิด การโต้ตอบของบอท(สถานะเริ่มต้น คือ ปิด)\n- @DS#Know_on/off :เปิด/ปิด การป้อนคำศัพท์จากสาธารณะ(สถานะเริ่มต้น คือ ปิด)\n- @DS#Bye :ออกจาก(｡ŏ﹏ŏ)\n\n\n✨ข่าวล่าสุด :https://www.facebook.com/DeachSword.tw/✨",
 "lang":"Successfully set the language as ",
 "bye":"Bye~~QAQ",
 
@@ -9,8 +9,7 @@
 "weather.temp":"Temp:",
 "weather":"Weather:",
 
-"tos":"Welcome to DS Bot's!\n\nThank you for using our products and services('Service').The Service is provided by the DeachSword Team('DS').\n\nIf you use the Service,you agree to the Terms,so please review the terms and conditions.\n\n1)Do not abuse the Service.For example, you should not use the Services to personal interests.\n2)We will continually change and improve our Services.We may add or remove features or features,or we may suspend or stop a Service entirely.\n3)We will use commercially reasonable techniques and attention to provide the Services,which we hope you will enjoy.There are some things we can not guarantee about the Service.\n4)Some of the content displayed in the Service is not owned by DS,and DS is not responsible for any inappropriate content\n5)DS reserves the right to change this provision without notice to the user.\n6)You guarantee that you will not upload,submit,store or transmit any unlawful acts to the Service when you use the Service,and if you violate the laws of the Republic of China,DS will unconditionally provide the file to a 'reliable' For investigation or conduct of legal decisions,and DS shall not be held responsible.\n7)You agree to be bound by these terms of service when you upload,submit,store,or transmit the Content to, or receive content from,the Services,or through the Services,and are willing to do so.",
-"tos.s":"DS Bot's Terms of Service\n\nBy using our Services, you are agreeing to these terms. Please read them carefully.",
+"tos":"DS Bot's Terms of Service\n\nBy using our Services, you are agreeing to these terms. \nWe can not guarantee that the machine will not learn bad things.\nWe are willing to provide information for legal investigation,without any liability.",
 "tos.yes":"Accept",
 "tos.no":"Refuse",
 
@@ -18,40 +17,45 @@
 "list.command":"✨Command List✨",
 "list.FAQ":"✨FAQ✨",
 
-"mute":"是否要開啟靜音模式呢?",
-"mute.on":"已成功開啟靜音模式,輸入@DS#Mute_off即可關閉",
-"mute.on.error":"我還不夠安靜嗎(‵﹏′)?",
-"mute.off":"靜音模式已關閉~",
-"mute.off.error":"嫌我不夠吵嗎( ´ ▽ ` )ﾉ",
+"mute":"Want to turn on silent mode?",
+"mute.on":"Silent mode turned on successfully\n\nEnter @DS#Mute_off return to normal",
+"mute.on.error":"I'm not quiet enough(‵﹏′)?",
+"mute.off":"Silent mode turned off successfully--<--<-<@",
+"mute.off.error":"I am afraid because of not enough noise( ´ ▽ ` )ﾉ",
 "mute.?":"@DS#Mute_on/off",
 
-"know":"要提升等級嗎?",
-"know.on1":"成功從Lv.",
-"know.on2":"升級到Lv.99(゜o゜",
-"know.on.error":"目前已是最高級別,聽說Lv.100只有外掛才能升上去('・ω・')",
-"know.off":"等級從Lv.99降級到Lv.",
-"know.off.error":"目前已是最低等(¯―¯٥)",
+"know":"Want to upgrade the Lv?",
+"know.on1":"Dictionary level from Lv.",
+"know.on2":" upgrade to Lv.99(゜o゜",
+"know.on.error":"Dictionary level is the maximum level, rumors Lv.100 only hackers can do('・ω・')",
+"know.off":"Dictionary level downgraded from Lv.99 to Lv.",
+"know.off.error":"Dictionary level is the lowest level(¯―¯٥)",
 "know.?":"@DS#Know_on/off",
 
-"word.error":"【語詞投稿】\n格式錯誤!!\n\nEx:@DS#Word_Custom_Words",
-"word1":"【語詞投稿】\n受信:",
-"word2":"\n送信:",
-"word3":"目前共有",
-"word4":"個投稿\n\n",
+"word.error":"【Custom Words】\nERROR!!\n\nEx:@DS#Word_Custom_Words",
+"word1":"【Custom Words】\nInduction vocabulary:",
+"word2":"\nResponse vocabulary:",
+"word3":"A total of ",
+"word4":" total custom words\n\n",
 
-"bot.v1":"Unknown",
-"bot.v2":"Unknown",
-"bot.v3":"The third - Re:Zero Rem",
-"bot.v4":"The fourth - Re:Zero Ram",
-"bot.v5":"Unknown",
-"bot.v6":"Unknown",
+"bot.v0":"The Zero - Shelter#Rin",
+"bot.v1":"The First - Beyond the Boundary#Kanbara Akihito",
+"bot.v2":"The Second - Beyond the Boundary#Kuriyama Mirai",
+"bot.v3":"The Third - Re:Zero#Rem",
+"bot.v4":"The Fourth - Re:Zero#Ram",
+"bot.v5":"The Fifth - Twin Star Exorcists",
+"bot.v6":"The Sixth - DATE A LIVE#Tokisaki Kurumi",
 
+"Shelter":"✨SHELTER✨",
+"境界の彼方":"✨Beyond the Boundary✨",
 "Re:Zero":"✨Re:Zero✨",
+"双星の陰陽師":"✨Twin Star Exorcists✨",
+"DATE A LIVE":"✨DATE A LIVE✨",
 
 "yes":"✨Turn on✨",
 "no":"✨Turn off✨",
 
 "error":"Use this command in the group/room('・ω・')",
 "lang.error":"Can not find the language of your choice.",
-"command.error":"Can not find this directive, please enter @DS#help to view."
+"command.error":"Can not find this directive, please enter @DS#Help to view."
 }
