@@ -1,5 +1,6 @@
 {
-"help":"✨DeachSword bot's  | Commands list:\n\n- @DS#Help :Commands list\n- @DS#Author :author\n- @DS#Word_(Induction vocabulary)_(Response vocabulary) :\n- @DS#Lang_English/Chinese/Thai/Japanese :Language Setting(Add _View to see the DS Bot's Terms of Service)\n\n\nℹGroup/Room Commands\n\n- @DS#Mute_on/off :Silent mode(default is off)\n- @DS#Know_on/off :Shared thesaurus(default is off=Private dictionary)\n- @DS#Bye :Byebye(｡ŏ﹏ŏ)\n\n\n✨Latest News :https://www.facebook.com/DeachSword.tw/✨",
+"helps":"✨DeachSword bot's  | Commands list:\n\n- @DS#Help :Commands list\n- @DS#Author :author\n- @DS#Word_(Induction vocabulary)_(Response vocabulary) :\n- @DS#Lang_English/Chinese/Thai/Japanese :Language Setting(Add _View to see the DS Bot's Terms of Service)\n\n\nℹGroup/Room Commands\n\n- @DS#Mute_on/off :Silent mode(default is off)\n- @DS#Know_on/off :Shared thesaurus(default is off=Private dictionary)\n- @DS#Bye :Byebye(｡ŏ﹏ŏ)\n\n\n✨Latest News :https://www.facebook.com/DeachSword.tw/✨",
+"help":"Error working.\n\nReport:https://www.facebook.com/DeachSword.tw/",
 "lang":"Successfully set the language as ",
 "bye":"Bye~~QAQ",
 
